@@ -1,0 +1,12 @@
+{
+  "httpMethod": "PUT",
+  "path": "/courses",
+  "body": {
+    "id": 5,
+    "name": "Curso de EA",
+    "credits": 16,
+    "hours": 40,
+    "school": "Synopsis",
+    "alumns": 10
+  }
+}

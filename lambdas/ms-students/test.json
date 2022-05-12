@@ -1,0 +1,11 @@
+{
+  "httpMethod": "GET",
+  "resource": "/students",
+  "body": {
+    "dni": "45834198",
+    "names": "Richard Fernando",
+    "lastname": "Abanto",
+    "sex": "M",
+    "birthday": "1987-11-04"
+  }
+}
